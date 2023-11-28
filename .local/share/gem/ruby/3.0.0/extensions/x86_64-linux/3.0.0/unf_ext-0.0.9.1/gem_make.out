@@ -1,0 +1,16 @@
+current directory: /home/runner/tubuntu2githubio-1/.local/share/gem/ruby/3.0.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+/nix/store/yfbi30xd53mnsh4ax1zppmr5bsr2r669-ruby-3.0.4/bin/ruby -I /nix/store/yfbi30xd53mnsh4ax1zppmr5bsr2r669-ruby-3.0.4/lib/ruby/3.0.0 extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /home/runner/tubuntu2githubio-1/.local/share/gem/ruby/3.0.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20231128-1427-dskrul sitelibdir\=./.gem.20231128-1427-dskrul clean
+
+current directory: /home/runner/tubuntu2githubio-1/.local/share/gem/ruby/3.0.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20231128-1427-dskrul sitelibdir\=./.gem.20231128-1427-dskrul
+compiling unf.cc
+linking shared-object unf_ext.so
+
+current directory: /home/runner/tubuntu2githubio-1/.local/share/gem/ruby/3.0.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20231128-1427-dskrul sitelibdir\=./.gem.20231128-1427-dskrul install
+install -c -p -m 755 unf_ext.so ./.gem.20231128-1427-dskrul
